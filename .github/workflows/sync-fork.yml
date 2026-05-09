@@ -3,7 +3,7 @@ name: Sync Fork
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * 1'
   workflow_dispatch: 
 
 jobs:
@@ -16,9 +16,10 @@ jobs:
           fetch-depth: 0
 
       - name: Sync upstream
-        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.3
         with:
+          target_sync_branch: main  # 你仓库的主分支名
           target_repo_token: ${{ secrets.GITHUB_TOKEN }}
-          upstream_repository: jaywcjlove/reference  # 例如: google/googletest
-          upstream_branch: main                  # 原仓库的主分支名
-          target_branch: main                    # 你仓库的主分支名
+          upstream_sync_branch: main
+          upstream_sync_repo: jaywcjlove/reference
+          upstream_branch: main     # 原仓库的主分支名                  
