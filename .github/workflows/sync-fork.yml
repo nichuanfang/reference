@@ -20,6 +20,5 @@ jobs:
         with:
           target_sync_branch: main  # 你仓库的主分支名
           target_repo_token: ${{ secrets.GITHUB_TOKEN }}
-          upstream_sync_branch: main
-          upstream_sync_repo: jaywcjlove/reference
-          upstream_branch: main     # 原仓库的主分支名                  
+          upstream_sync_branch: main  # 原仓库的主分支名  
+          upstream_sync_repo: jaywcjlove/reference                     
