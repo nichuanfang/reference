@@ -144,6 +144,7 @@ Quick Reference
 [Gemma 4](./docs/gemma4.md)<!--rehype:style=background:rgb(87 132 217);&class=tag&data-lang=AI-->
 [Gemini CLI](./docs/gemini-cli.md)<!--rehype:style=background:rgb(217 87 96);&class=tag&data-lang=AI-->
 [Grok CLI](./docs/grok-cli.md)<!--rehype:style=background:rgb(122 87 217);&class=tag&data-lang=AI-->
+[Grok](./docs/grok.md)<!--rehype:style=background:rgb(84 84 84);&class=tag&data-lang=官方-->
 <!--rehype:class=home-card-->
 
 ## 编程
@@ -359,34 +360,44 @@ Quick Reference
 
 [Cisco 网络设备](./docs/cisco-devices.md)<!--rehype:style=background: rgb(4 159 217);&class=contributing&data-info=👆看看还缺点儿什么？-->
 [Huawei 网络设备](./docs/huawei-devices.md)<!--rehype:style=background: rgb(222 0 8);&class=contributing&data-info=👆看看还缺点儿什么？-->
-
 <!--rehype:class=home-card-->
 
-## 快捷键
+## 快捷键 - 创意设计
 
 [Adobe Lightroom](./docs/adobe-lightroom.md)<!--rehype:style=background: rgb(49 168 255);-->
 [Adobe Photoshop](./docs/adobe-photoshop.md)<!--rehype:style=background: rgb(49 168 255);-->
+[Adobe Illustrator](./docs/adobe-illustrator.md)<!--rehype:style=background: rgb(255 154 0);-->
 [Adobe XD](./docs/adobe-xd.md)<!--rehype:style=background: rgb(255 97 246);-->
 [Adobe After Effects](./docs/adobe-ae.md)<!--rehype:style=background: rgb(111 111 228);-->
-[Android Studio](./docs/android-studio.md)<!--rehype:style=background: rgb(16 185 129);-->
+[Adobe Premiere](./docs/adobe-pr.md)<!--rehype:style=background: rgb(111 111 228);-->
 [Blender](./docs/blender.md)<!--rehype:style=background: rgb(16 185 129);-->
-[Firefox](./docs/firefox.md)<!--rehype:style=background: rgb(253 53 76);-->
-[Finder](./docs/finder.md)<!--rehype:style=background: rgb(253 53 76);&class=tag&data-lang=macOS-->
+[CorelDRAW](./docs/coreldraw.md)<!--rehype:style=background: rgb(16 185 129);-->
 [Figma](./docs/figma.md)<!--rehype:style=background: rgb(147 90 238);-->
-[Gmail](./docs/gmail.md)<!--rehype:style=background: rgb(234 67 54);-->
-[Gitlab](./docs/gitlab.md)<!--rehype:style=background: rgb(226 67 41);-->
-[Google Chrome](./docs/google-chrome.md)<!--rehype:style=background: rgb(29 116 232);-->
+[Sketch](./docs/sketch.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=macOS-->
+<!--rehype:class=home-card-->
+
+## 快捷键 - 开发工具 / IDE
+
+[Android Studio](./docs/android-studio.md)<!--rehype:style=background: rgb(16 185 129);-->
 [IntelliJ IDEA](./docs/intelli-j-idea.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=Java-->
 [PyCharm](./docs/pycharm.md)<!--rehype:style=background: rgb(36 215 137);&class=tag&data-lang=Python-->
 [PhpStorm](./docs/phpstorm.md)<!--rehype:style=\-\-bg\-opacity: 0.75;background-image: linear-gradient(to left, rgba(255 106 172 / var(\-\-bg\-opacity)), rgba(183 173 255 / var(\-\-bg\-opacity)));-->
-[Sketch](./docs/sketch.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=macOS-->
 [Sublime Text](./docs/sublime-text.md)<!--rehype:style=background: rgb(223 148 0);-->
-[Vimium](./docs/vimium.md)<!--rehype:style=background: rgb(49 168 255);&class=contributing&class=tag&data-lang=浏览器插件-->
 [VSCode](./docs/vscode.md)<!--rehype:style=background: rgb(91 163 230);-->
-[Twitter(X)](./docs/twitter.md)<!--rehype:style=background: rgb(91 163 230);-->
 [WebStorm](./docs/webstorm.md)<!--rehype:style=background: rgb(32 148 220);-->
 [Xcode](./docs/xcode.md)<!--rehype:style=background: rgb(24 151 233);&class=tag&data-lang=macOS-->
 [Zed](./docs/zed.md)<!--rehype:style=background: rgb(71 71 71);-->
+<!--rehype:class=home-card-->
+
+## 快捷键 - 其它
+
+[Firefox](./docs/firefox.md)<!--rehype:style=background: rgb(253 53 76);-->
+[Google Chrome](./docs/google-chrome.md)<!--rehype:style=background: rgb(29 116 232);-->
+[Vimium](./docs/vimium.md)<!--rehype:style=background: rgb(49 168 255);&class=contributing&class=tag&data-lang=浏览器插件-->
+[Finder](./docs/finder.md)<!--rehype:style=background: rgb(253 53 76);&class=tag&data-lang=macOS-->
+[Gmail](./docs/gmail.md)<!--rehype:style=background: rgb(234 67 54);-->
+[Gitlab](./docs/gitlab.md)<!--rehype:style=background: rgb(226 67 41);-->
+[Twitter(X)](./docs/twitter.md)<!--rehype:style=background: rgb(91 163 230);-->
 <!--rehype:class=home-card-->
 
 ## 其它
@@ -443,11 +454,13 @@ Quick Reference
 <a href="https://github.com/eryajf" title="二丫讲梵"><img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="42;" alt="二丫讲梵"/></a>
 <a href="https://github.com/ChuwuYo" title="ChuwuYo"><img src="https://avatars.githubusercontent.com/u/141227996?v=4" width="42;" alt="ChuwuYo"/></a>
 <a href="https://github.com/undefined-hestudio" title="undefined"><img src="https://avatars.githubusercontent.com/u/119711513?v=4" width="42;" alt="undefined"/></a>
+<a href="https://github.com/mantoujun12" title="一张白纸"><img src="https://avatars.githubusercontent.com/u/202384594?v=4" width="42;" alt="一张白纸"/></a>
 <a href="https://github.com/Darkiiiiiice" title="Darkiiiiiice"><img src="https://avatars.githubusercontent.com/u/3959555?v=4" width="42;" alt="Darkiiiiiice"/></a>
 <a href="https://github.com/genius-kim" title="Kim同学"><img src="https://avatars.githubusercontent.com/u/119488561?v=4" width="42;" alt="Kim同学"/></a>
 <a href="https://github.com/qyl27" title="雨落"><img src="https://avatars.githubusercontent.com/u/53731501?v=4" width="42;" alt="雨落"/></a>
 <a href="https://github.com/MackDing" title="Blossom"><img src="https://avatars.githubusercontent.com/u/19878893?v=4" width="42;" alt="Blossom"/></a>
 <a href="https://github.com/1250422131" title="萌新杰少"><img src="https://avatars.githubusercontent.com/u/52126790?v=4" width="42;" alt="萌新杰少"/></a>
+<a href="https://github.com/zineyu" title="zine yu"><img src="https://avatars.githubusercontent.com/u/46991452?v=4" width="42;" alt="zine yu"/></a>
 <a href="https://github.com/richuff" title="richuff"><img src="https://avatars.githubusercontent.com/u/162144087?v=4" width="42;" alt="richuff"/></a>
 <a href="https://github.com/QinIndexCode" title="Qin"><img src="https://avatars.githubusercontent.com/u/177287013?v=4" width="42;" alt="Qin"/></a>
 <a href="https://github.com/chaos-cn" title="chaos"><img src="https://avatars.githubusercontent.com/u/71205599?v=4" width="42;" alt="chaos"/></a>

@@ -417,11 +417,13 @@ jobs:
 <a href="https://github.com/eryajf" title="二丫讲梵"><img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="42;" alt="二丫讲梵"/></a>
 <a href="https://github.com/ChuwuYo" title="ChuwuYo"><img src="https://avatars.githubusercontent.com/u/141227996?v=4" width="42;" alt="ChuwuYo"/></a>
 <a href="https://github.com/undefined-hestudio" title="undefined"><img src="https://avatars.githubusercontent.com/u/119711513?v=4" width="42;" alt="undefined"/></a>
+<a href="https://github.com/mantoujun12" title="一张白纸"><img src="https://avatars.githubusercontent.com/u/202384594?v=4" width="42;" alt="一张白纸"/></a>
 <a href="https://github.com/Darkiiiiiice" title="Darkiiiiiice"><img src="https://avatars.githubusercontent.com/u/3959555?v=4" width="42;" alt="Darkiiiiiice"/></a>
 <a href="https://github.com/genius-kim" title="Kim同学"><img src="https://avatars.githubusercontent.com/u/119488561?v=4" width="42;" alt="Kim同学"/></a>
 <a href="https://github.com/qyl27" title="雨落"><img src="https://avatars.githubusercontent.com/u/53731501?v=4" width="42;" alt="雨落"/></a>
 <a href="https://github.com/MackDing" title="Blossom"><img src="https://avatars.githubusercontent.com/u/19878893?v=4" width="42;" alt="Blossom"/></a>
 <a href="https://github.com/1250422131" title="萌新杰少"><img src="https://avatars.githubusercontent.com/u/52126790?v=4" width="42;" alt="萌新杰少"/></a>
+<a href="https://github.com/zineyu" title="zine yu"><img src="https://avatars.githubusercontent.com/u/46991452?v=4" width="42;" alt="zine yu"/></a>
 <a href="https://github.com/richuff" title="richuff"><img src="https://avatars.githubusercontent.com/u/162144087?v=4" width="42;" alt="richuff"/></a>
 <a href="https://github.com/QinIndexCode" title="Qin"><img src="https://avatars.githubusercontent.com/u/177287013?v=4" width="42;" alt="Qin"/></a>
 <a href="https://github.com/chaos-cn" title="chaos"><img src="https://avatars.githubusercontent.com/u/71205599?v=4" width="42;" alt="chaos"/></a>
