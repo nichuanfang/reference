@@ -180,6 +180,7 @@ Quick Reference
 [Julia](./docs/julia.md)<!--rehype:style=background:rgb(26 188 156);&class=contributing&data-info=👆看看还缺点儿什么？-->
 [Kotlin](./docs/kotlin.md)<!--rehype:style=background:rgb(211 55 49);&class=contributing&data-info=👆看看还缺点儿什么？-->
 [Kubernetes](./docs/kubernetes.md)<!--rehype:style=background:rgb(51 113 227);&class=contributing&data-info=👆看看还缺点儿什么？-->
+[Helm](./docs/helm.md)<!--rehype:style=background:rgb(15 43 91);&class=tag&data-lang=Kubernetes-->
 [LaTeX](./docs/latex.md)<!--rehype:style=background:rgb(0 128 128);&class=contributing-->
 [Laravel 8](./docs/laravel.md)<!--rehype:style=background:rgb(249 50 44);&class=contributing tag&data-lang=PHP-->
 [Leaf](./docs/leaf.md)<!--rehype:style=background:rgb(106 105 254);&class=contributing tag&data-lang=Swift-->
@@ -531,7 +532,7 @@ Quick Reference
 <a href="https://github.com/liliangrong777" title="liliangrong777"><img src="https://avatars.githubusercontent.com/u/58727146?v=4" width="42;" alt="liliangrong777"/></a>
 <a href="https://github.com/qiukuip" title="qiukuip | 秋葵笔记"><img src="https://avatars.githubusercontent.com/u/44923922?v=4" width="42;" alt="qiukuip | 秋葵笔记"/></a>
 <a href="https://github.com/lykjjj" title="lykjjj"><img src="https://avatars.githubusercontent.com/u/58510058?v=4" width="42;" alt="lykjjj"/></a>
-<a href="https://github.com/wmjim" title="mengw"><img src="https://avatars.githubusercontent.com/u/120168574?v=4" width="42;" alt="mengw"/></a>
+<a href="https://github.com/wmjim" title="Void"><img src="https://avatars.githubusercontent.com/u/120168574?v=4" width="42;" alt="Void"/></a>
 <a href="https://github.com/13812700839" title="花殇"><img src="https://avatars.githubusercontent.com/u/58072506?v=4" width="42;" alt="花殇"/></a>
 <a href="https://github.com/chyok" title="chyok"><img src="https://avatars.githubusercontent.com/u/32629225?v=4" width="42;" alt="chyok"/></a>
 <a href="https://github.com/lijc210" title="cizai"><img src="https://avatars.githubusercontent.com/u/10651081?v=4" width="42;" alt="cizai"/></a>
@@ -549,6 +550,7 @@ Quick Reference
 <a href="https://github.com/hua03" title="hua03"><img src="https://avatars.githubusercontent.com/u/19561959?v=4" width="42;" alt="hua03"/></a>
 <a href="https://github.com/yanxuplay" title="hupilan"><img src="https://avatars.githubusercontent.com/u/69749541?v=4" width="42;" alt="hupilan"/></a>
 <a href="https://github.com/hweining" title="hweining"><img src="https://avatars.githubusercontent.com/u/8973985?v=4" width="42;" alt="hweining"/></a>
+<a href="https://github.com/micky2333" title="micky2333"><img src="https://avatars.githubusercontent.com/u/60259931?v=4" width="42;" alt="micky2333"/></a>
 <a href="https://github.com/childeyouyu" title="youyu"><img src="https://avatars.githubusercontent.com/u/89082776?v=4" width="42;" alt="youyu"/></a>
 <a href="https://github.com/zhouhw0306" title="zhouhw0306"><img src="https://avatars.githubusercontent.com/u/82752681?v=4" width="42;" alt="zhouhw0306"/></a>
 <a href="https://github.com/zxx457" title="Xianxin Zeng"><img src="https://avatars.githubusercontent.com/u/114141362?v=4" width="42;" alt="Xianxin Zeng"/></a>
@@ -566,7 +568,6 @@ Quick Reference
 <a href="https://github.com/qwxingzhe" title="行者"><img src="https://avatars.githubusercontent.com/u/7071651?v=4" width="42;" alt="行者"/></a>
 <a href="https://github.com/binscor" title="binscor"><img src="https://avatars.githubusercontent.com/u/37325821?v=4" width="42;" alt="binscor"/></a>
 <a href="https://github.com/zeng-qh" title="都一样"><img src="https://avatars.githubusercontent.com/u/40046415?v=4" width="42;" alt="都一样"/></a>
-<a href="https://github.com/micky2333" title="micky2333"><img src="https://avatars.githubusercontent.com/u/60259931?v=4" width="42;" alt="micky2333"/></a>
 <a href="https://github.com/miclon-dev" title="miclon-dev"><img src="https://avatars.githubusercontent.com/u/111753685?v=4" width="42;" alt="miclon-dev"/></a>
 <a href="https://github.com/notes-bin" title="notes-bin"><img src="https://avatars.githubusercontent.com/u/58727373?v=4" width="42;" alt="notes-bin"/></a>
 <a href="https://github.com/onewesong" title="onewesong"><img src="https://avatars.githubusercontent.com/u/17920822?v=4" width="42;" alt="onewesong"/></a>
@@ -575,6 +576,7 @@ Quick Reference
 <a href="https://github.com/ri-fumo" title="ri-fumo"><img src="https://avatars.githubusercontent.com/u/190000479?v=4" width="42;" alt="ri-fumo"/></a>
 <a href="https://github.com/shanhai1024" title="shanhai1024"><img src="https://avatars.githubusercontent.com/u/56210461?v=4" width="42;" alt="shanhai1024"/></a>
 <a href="https://github.com/Mowmowj" title="SheltonCheung"><img src="https://avatars.githubusercontent.com/u/24759562?v=4" width="42;" alt="SheltonCheung"/></a>
+<a href="https://github.com/srebro-cn" title="srebro.cn"><img src="https://avatars.githubusercontent.com/u/53123002?v=4" width="42;" alt="srebro.cn"/></a>
 <a href="https://github.com/suyangzuo" title="suyangzuo"><img src="https://avatars.githubusercontent.com/u/50766353?v=4" width="42;" alt="suyangzuo"/></a>
 <a href="https://github.com/swift-fs" title="swift-fs"><img src="https://avatars.githubusercontent.com/u/77133741?v=4" width="42;" alt="swift-fs"/></a>
 <a href="https://github.com/wannima66" title="tmen"><img src="https://avatars.githubusercontent.com/u/26410255?v=4" width="42;" alt="tmen"/></a>
@@ -617,6 +619,7 @@ Quick Reference
 <a href="https://github.com/dasferco" title="Dasferco"><img src="https://avatars.githubusercontent.com/u/92622404?v=4" width="42;" alt="Dasferco"/></a>
 <a href="https://github.com/demigodliu" title="DemigodLiu"><img src="https://avatars.githubusercontent.com/u/30372735?v=4" width="42;" alt="DemigodLiu"/></a>
 <a href="https://github.com/dogxii" title="Dogxi"><img src="https://avatars.githubusercontent.com/u/106546046?v=4" width="42;" alt="Dogxi"/></a>
+<a href="https://github.com/Mieriki" title="Mieriki"><img src="https://avatars.githubusercontent.com/u/142009318?v=4" width="42;" alt="Mieriki"/></a>
 <a href="https://github.com/YLee9527" title="Terry Young"><img src="https://avatars.githubusercontent.com/u/18697332?v=4" width="42;" alt="Terry Young"/></a>
 <a href="https://github.com/vaibhav8a" title="Vaibhav Srivastava"><img src="https://avatars.githubusercontent.com/u/173471846?v=4" width="42;" alt="Vaibhav Srivastava"/></a>
 <a href="https://github.com/whb1998a" title="Wafer"><img src="https://avatars.githubusercontent.com/u/44045064?v=4" width="42;" alt="Wafer"/></a>
@@ -634,7 +637,6 @@ Quick Reference
 <a href="https://github.com/Lmmmmmm-bb" title="_lmmmmmm"><img src="https://avatars.githubusercontent.com/u/54026110?v=4" width="42;" alt="_lmmmmmm"/></a>
 <a href="https://github.com/zlfyuan" title="bgbgPang"><img src="https://avatars.githubusercontent.com/u/19658018?v=4" width="42;" alt="bgbgPang"/></a>
 <a href="https://github.com/cgluWxh" title="cgluWxh"><img src="https://avatars.githubusercontent.com/u/18211130?v=4" width="42;" alt="cgluWxh"/></a>
-<a href="https://github.com/Mieriki" title="Mieriki"><img src="https://avatars.githubusercontent.com/u/142009318?v=4" width="42;" alt="Mieriki"/></a>
 <a href="https://github.com/malcolmyu" title="Minghao Yu"><img src="https://avatars.githubusercontent.com/u/3203962?v=4" width="42;" alt="Minghao Yu"/></a>
 <a href="https://github.com/Moeyuuko" title="Moeyuuko"><img src="https://avatars.githubusercontent.com/u/14266681?v=4" width="42;" alt="Moeyuuko"/></a>
 <a href="https://github.com/mo3et" title="Monet Lee"><img src="https://avatars.githubusercontent.com/u/34803812?v=4" width="42;" alt="Monet Lee"/></a>
@@ -649,6 +651,7 @@ Quick Reference
 <a href="https://github.com/RivailleF" title="RivailleF"><img src="https://avatars.githubusercontent.com/u/93083015?v=4" width="42;" alt="RivailleF"/></a>
 <a href="https://github.com/qinxiongzhou" title="Ryan Zhou"><img src="https://avatars.githubusercontent.com/u/33239096?v=4" width="42;" alt="Ryan Zhou"/></a>
 <a href="https://github.com/DataEraserC" title="Sacabambaspis"><img src="https://avatars.githubusercontent.com/u/102341238?v=4" width="42;" alt="Sacabambaspis"/></a>
+<a href="https://github.com/ShirakamiAme" title="ShirakamiAme"><img src="https://avatars.githubusercontent.com/u/85148911?v=4" width="42;" alt="ShirakamiAme"/></a>
 <a href="https://github.com/N0x-xOn" title="shawing"><img src="https://avatars.githubusercontent.com/u/107191230?v=4" width="42;" alt="shawing"/></a>
 <a href="https://github.com/TRDSCSH" title="TRDSCSH"><img src="https://avatars.githubusercontent.com/u/125717891?v=4" width="42;" alt="TRDSCSH"/></a>
 
